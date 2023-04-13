@@ -15,3 +15,7 @@ b {color: white;
 i { color: white;
     font-size: large;
 }
+span {
+    color:goldenrod;
+    font-size: larger;
+}
