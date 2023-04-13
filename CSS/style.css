@@ -1,4 +1,17 @@
 body {
-    background-color: black;
+    background-color: #000;
     color: aliceblue;
+}
+
+div {
+    color:aliceblue; 
+    background-color:grey;
+    width: 700px;
+}
+
+b {color: white;
+}
+
+i { color: white;
+    font-size: large;
 }
